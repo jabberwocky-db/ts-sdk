@@ -1,5 +1,5 @@
 {
-    "name": "@jabberwocky-db/ts-node-template",
+    "name": "@jabberwocky-db/ts-sdk",
     "version": "1.0.0",
     "license": "MIT",
     "sideEffects": false,
