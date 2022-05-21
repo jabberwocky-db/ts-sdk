@@ -29,13 +29,13 @@
         "lint": "yarn tsc --noEmit --emitDeclarationOnly false & eslint src --fix --cache"
     },
     "devDependencies": {
-        "@jabberwocky-db/eslint-config": "1.0.1",
-        "@jabberwocky-db/jest-config": "1.0.1",
-        "@jabberwocky-db/prettier-config": "2.0.1",
-        "@jabberwocky-db/rollup-config": "1.0.1",
-        "@jabberwocky-db/tsconfig-node": "1.0.3",
+        "@jabberwocky-db/eslint-config": "^1.0.2",
+        "@jabberwocky-db/jest-config": "^2.0.1",
+        "@jabberwocky-db/prettier-config": "^2.0.3",
+        "@jabberwocky-db/rollup-config": "^1.0.3",
+        "@jabberwocky-db/tsconfig-node": "^1.0.4",
         "jest": "28.1.0",
-        "rollup": "2.73.0",
+        "rollup": "^2.74.1",
         "typescript": "4.6.4"
     }
 }
