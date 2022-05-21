@@ -34,8 +34,8 @@
         "@jabberwocky-db/prettier-config": "^2.0.3",
         "@jabberwocky-db/rollup-config": "^1.0.3",
         "@jabberwocky-db/tsconfig-node": "^1.0.4",
-        "jest": "28.1.0",
+        "jest": "^28.1.0",
         "rollup": "^2.74.1",
-        "typescript": "4.6.4"
+        "typescript": "^4.6.4"
     }
 }
